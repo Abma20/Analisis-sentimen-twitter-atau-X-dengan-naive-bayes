@@ -50,6 +50,15 @@ Machine Learning: Scikit-learn
 
 Visualisasi: Matplotlib, Seaborn, WordCloud
 
+<img width="1365" height="717" alt="Screenshot 2025-07-28 162942" src="https://github.com/user-attachments/assets/bab3fd90-3d2a-4504-ab6b-2fecb115fcb5" />
+
+<img width="1365" height="719" alt="Screenshot 2025-07-28 163440" src="https://github.com/user-attachments/assets/2d9ba90d-622c-45d4-93ae-746bfc892f56" />
+
+<img width="1364" height="713" alt="Screenshot 2025-07-28 163535" src="https://github.com/user-attachments/assets/23eb13d6-0945-4b97-b13a-666c31ab2da7" />
+
+<img width="1364" height="714" alt="Screenshot 2025-07-28 163237" src="https://github.com/user-attachments/assets/0ee5bc8c-8e85-4557-b691-e177150b6725" />
+
+
 📜 Lisensi
 Didistribusikan di bawah Lisensi MIT. Lihat LICENSE untuk informasi lebih lanjut.
 

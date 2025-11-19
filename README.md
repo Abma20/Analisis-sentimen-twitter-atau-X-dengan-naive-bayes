@@ -1,6 +1,6 @@
 Analisis Sentimen Produk di Media Sosial X dengan Naive Bayes
 📝 Deskripsi Proyek
-Proyek ini bertujuan untuk melakukan analisis sentimen terhadap opini publik mengenai [Sebutkan Nama Produk, misal: iPhone 15 / Layanan Grab / dll] di platform media sosial X (sebelumnya Twitter).
+Proyek ini bertujuan untuk melakukan analisis sentimen terhadap opini publik mengenai parfum di platform media sosial X (sebelumnya Twitter).
 
 Dengan menggunakan algoritma Naive Bayes Classifier, sistem ini mengklasifikasikan tweet ke dalam tiga kategori sentimen:
 
@@ -12,7 +12,7 @@ Netral
 
 Proyek ini bermanfaat untuk memahami persepsi pengguna terhadap produk dan dapat digunakan sebagai bahan evaluasi bisnis.
 
-Shutterstock
+<img width="3999" height="2761" alt="image" src="https://github.com/user-attachments/assets/e12aa96a-60ea-426b-8e39-1854adbb5ed7" />
 
 🚀 Fitur Utama
 Data Crawling: Mengambil data ulasan/tweet dari API X (atau dataset statis).
@@ -36,6 +36,9 @@ Modeling: Implementasi algoritma Multinomial Naive Bayes.
 Evaluasi: Laporan akurasi, Presisi, Recall, dan F1-Score.
 
 Visualisasi: Word Cloud dan Confusion Matrix.
+<img width="3999" height="3999" alt="image" src="https://github.com/user-attachments/assets/c78fd326-62fe-4412-ad74-1fcc9ce06074" />
+
+
 🛠️ Teknologi yang Digunakan
 Bahasa Pemrograman: Python
 

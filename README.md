@@ -49,3 +49,12 @@ NLP Library: NLTK, Sastrawi (untuk Bahasa Indonesia)
 Machine Learning: Scikit-learn
 
 Visualisasi: Matplotlib, Seaborn, WordCloud
+
+📜 Lisensi
+Didistribusikan di bawah Lisensi MIT. Lihat LICENSE untuk informasi lebih lanjut.
+
+Dibuat oleh Majid
+
+LinkedIn: https://www.linkedin.com/in/majid-703905382/
+
+Email: mazidabdul987@gmail.com
